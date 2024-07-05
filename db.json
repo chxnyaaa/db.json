@@ -41,7 +41,7 @@
       "location": "CMU",
       "date": "February 27, 2022",
       "time": "12.00",
-      "petsAllowed": "false",
+      "petsAllowed": false,
       "organizer": "Riot"
     }
   ]
