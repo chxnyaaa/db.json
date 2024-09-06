@@ -22,7 +22,7 @@
 	{
 		"name": "Swimming",
 		"gold": 8,
-		"silver":13 ,
+		"silver": 13,
 		"bronze": 7
 	}
       ]
@@ -49,7 +49,7 @@
 	{
 		"name": "Swimming",
 		"gold": 2,
-		"silver":3 ,
+		"silver": 3,
 		"bronze": 7	
 	}
       ]
@@ -105,6 +105,6 @@
 		"bronze": 3
 	}
       ]
-    },
+    }
   ]
 }
