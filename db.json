@@ -1,48 +1,110 @@
 {
-  "events": [
+  "country": [
     {
-      "id": 5928101,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "petsAllowed": true,
-      "organizer": "Kat Laydee"
+      "id": 0,
+      "name": "United States of America",
+      "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/USA.png",
+      "description": "A country primarily located in North America. It is a federal union of 50 states, the federal capital district of Washington, D.C., and 326 Indian reservations. The 48 contiguous states are bordered by Canada to the north and Mexico to the south.",
+      "sports": [
+	{
+		"name": "Athletics",
+		"gold": 14,
+		"silver": 11,
+		"bronze": 9
+	},
+	{
+		"name": "Diving",
+		"gold": 0,
+		"silver": 1,
+		"bronze": 0
+
+	},
+	{
+		"name": "Swimming",
+		"gold": 8,
+		"silver":13 ,
+		"bronze": 7
+	}
+      ]
     },
     {
-      "id": 4582797,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "petsAllowed": true,
-      "organizer": "Fern Pollin"
+      "id": 1,
+      "name": "People's Republic of China",
+      "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/CHN.png",
+      "description": "A country in East Asia. With a population exceeding 1.4 billion, it is the world's second-most populous country after India, representing 17.4% of the world population.",
+      "sports": [
+	{
+		"name": "Athletics",
+		"gold": 1,
+		"silver": 1,
+		"bronze": 2
+	},
+	{
+		"name": "Diving",
+		"gold": 8,
+		"silver": 2,
+		"bronze": 1
+
+	},
+	{
+		"name": "Swimming",
+		"gold": 2,
+		"silver":3 ,
+		"bronze": 7	
+	}
+      ]
     },
     {
-      "id": 8419988,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "petsAllowed": false,
-      "organizer": "Carey Wales"
+      "id": 2,
+      "name": "Japan",
+      "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/JPN.png",
+      "description": "An island country in East Asia. It is located in the Pacific Ocean off the northeast coast of the Asian mainland, and is bordered on the west by the Sea of Japan and extends from the Sea of Okhotsk in the north to the East China Sea in the south. ",
+      "sports": [
+	{
+		"name": "Athletics",
+		"gold": 1,
+		"silver": 0,
+		"bronze": 0
+	},
+	{
+		"name": "Diving",
+		"gold": 0,
+		"silver": 1,
+		"bronze": 0
+	},
+	{
+		"name": "Swimming",
+		"gold": 0,
+		"silver": 1,
+		"bronze": 0
+	}
+      ]
     },
     {
-      "id": 1234567,
-      "category": "gaming",
-      "title": "Valorant",
-      "description": "The good fps game.",
-      "location": "CMU",
-      "date": "February 27, 2022",
-      "time": "12.00",
-      "petsAllowed": false,
-      "organizer": "Riot"
-    }
+      "id": 3,
+      "name": "Australia",
+      "flag": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/AUS.png",
+      "description": "A country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands.",
+      "sports": [
+	{
+		"name": "Athletics",
+		"gold": 1,
+		"silver": 2,
+		"bronze": 4
+	},
+	{
+		"name": "Diving",
+		"gold": 0,
+		"silver": 1,
+		"bronze": 0
+	},
+	{
+		"name": "Swimming",
+		"gold": 7,
+		"silver": 8,
+		"bronze": 3
+	}
+      ]
+    },
   ]
 }
